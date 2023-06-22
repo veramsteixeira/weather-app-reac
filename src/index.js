@@ -11,6 +11,7 @@ root.render(
   <StrictMode>
     <App />
     <Search />
+    <br />
     <Git />
   </StrictMode>
 );
